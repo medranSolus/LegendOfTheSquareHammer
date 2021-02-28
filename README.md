@@ -3,7 +3,7 @@
 Simple zelda-like game for Object Oriented Programming university course. Game is based on **SDL 2** library and concept of isometric RPG.
 
 ## Info
-**Author:** Marek Machliñski
+**Author:** Marek MachliÃ±ski
 
 **Creation date:** 20.04.2018
 
@@ -54,5 +54,5 @@ Simple zelda-like game for Object Oriented Programming university course. Game i
 ### Game over screen
 ![GameOver](Screens/GameOver.png)
 
-### Game over screen
+### Special code menu screen
 ![KonamiCode](Screens/KonamiCode.png)

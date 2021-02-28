@@ -1,0 +1,71 @@
+15
+192 918 306 101
+1 ÿ ÿ ÿ ÿ
+Back
+Textures/Button.png
+menu
+0 0 400 100
+1 ÿ     ÿ
+Health:  
+Textures/Button.png
+none
+400 0 83 100
+0
+Textures/LevelUp.png
+none
+0 0 1920 1080
+0
+Textures/EquipmentTable.png
+none
+0 0 203 193
+0
+Textures/OptionMenu.png
+none
+0 0 203 64
+1 ÿ ÿ ÿ ÿ
+Info
+Textures/Blank.png
+none
+0 0 203 64
+1 ÿ ÿ ÿ ÿ
+Throw
+Textures/Blank.png
+none
+0 0 203 64
+1 ÿ ÿ ÿ ÿ
+Wear
+Textures/Blank.png
+none
+0 0 203 64
+1 ÿ ÿ ÿ ÿ
+Left
+Textures/Button.png
+none
+0 0 203 64
+1 ÿ ÿ ÿ ÿ
+Right
+Textures/Button.png
+none
+850 76 516 141
+1 ÿ ÿ ÿ ÿ
+  Stats Info  
+Textures/MenuBar.png
+none
+1243 76 516 141
+1 ÿ ÿ ÿ ÿ
+   Equipment   
+Textures/MenuBar.png
+none
+0 0 1920 1080
+0
+Textures/StatsTable.png
+none
+1374 248 385 106
+1 ÿ ÿ ÿ ÿ
+Accept
+Textures/Button.png
+none
+0 0 1920 1080
+0
+Textures/InfoTable.png
+none

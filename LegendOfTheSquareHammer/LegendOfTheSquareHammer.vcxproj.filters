@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Events">
+      <UniqueIdentifier>{31f31ccb-93e7-4b7d-8979-1bc91643b47e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Renders">
+      <UniqueIdentifier>{597c494b-8d51-4a3c-af3e-98abd319a773}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Renders\Objects">
+      <UniqueIdentifier>{dbb7f644-4c10-490d-b90b-110bc65383a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Renders\Items">
+      <UniqueIdentifier>{13272e1c-df82-4b7c-a00e-d912637fd0ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Renders\Items\Magic">
+      <UniqueIdentifier>{b9234dc0-bb79-46f2-b3a1-158e09dac4c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Renders\Items\SingleUse">
+      <UniqueIdentifier>{3a7fc0c3-d581-48cf-b90a-bba3e4858ebb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Events">
+      <UniqueIdentifier>{0509112b-0c44-45d7-801c-ede2082d023d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Renders">
+      <UniqueIdentifier>{b29e7986-e332-4528-8fa4-5ba6ffe7ffbb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Renders\Objects">
+      <UniqueIdentifier>{b7c9952f-50d4-44d7-94b2-86b1dfd981cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ProgramData">
+      <UniqueIdentifier>{bb69fc5e-03cf-47ff-af43-6b4231adb842}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="App.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Data\LOTSH.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Info.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Save.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Structs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Data.h">
+      <Filter>Header Files\ProgramData</Filter>
+    </ClInclude>
+    <ClInclude Include="LabelsData.h">
+      <Filter>Header Files\ProgramData</Filter>
+    </ClInclude>
+    <ClInclude Include="TexturesData.h">
+      <Filter>Header Files\ProgramData</Filter>
+    </ClInclude>
+    <ClInclude Include="Keyboard.h">
+      <Filter>Header Files\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="EventHandler.h">
+      <Filter>Header Files\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Header Files\Renders</Filter>
+    </ClInclude>
+    <ClInclude Include="Label.h">
+      <Filter>Header Files\Renders</Filter>
+    </ClInclude>
+    <ClInclude Include="IRenderable.h">
+      <Filter>Header Files\Renders</Filter>
+    </ClInclude>
+    <ClInclude Include="Building.h">
+      <Filter>Header Files\Renders\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="IObject.h">
+      <Filter>Header Files\Renders\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Npc.h">
+      <Filter>Header Files\Renders\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="PickUp.h">
+      <Filter>Header Files\Renders\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files\Renders\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Armor.h">
+      <Filter>Header Files\Renders\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Header Files\Renders\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon.h">
+      <Filter>Header Files\Renders\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="AttackScroll.h">
+      <Filter>Header Files\Renders\Items\Magic</Filter>
+    </ClInclude>
+    <ClInclude Include="EffectScroll.h">
+      <Filter>Header Files\Renders\Items\Magic</Filter>
+    </ClInclude>
+    <ClInclude Include="IScroll.h">
+      <Filter>Header Files\Renders\Items\Magic</Filter>
+    </ClInclude>
+    <ClInclude Include="SpellScroll.h">
+      <Filter>Header Files\Renders\Items\Magic</Filter>
+    </ClInclude>
+    <ClInclude Include="ISingleUse.h">
+      <Filter>Header Files\Renders\Items\SingleUse</Filter>
+    </ClInclude>
+    <ClInclude Include="Potion.h">
+      <Filter>Header Files\Renders\Items\SingleUse</Filter>
+    </ClInclude>
+    <ClInclude Include="StatsPotion.h">
+      <Filter>Header Files\Renders\Items\SingleUse</Filter>
+    </ClInclude>
+    <ClInclude Include="Stats.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainStats.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Info.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Save.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Structs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Keyboard.cpp">
+      <Filter>Source Files\Events</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Source Files\Renders</Filter>
+    </ClCompile>
+    <ClCompile Include="Label.cpp">
+      <Filter>Source Files\Renders</Filter>
+    </ClCompile>
+    <ClCompile Include="Items.cpp">
+      <Filter>Source Files\Renders</Filter>
+    </ClCompile>
+    <ClCompile Include="Building.cpp">
+      <Filter>Source Files\Renders\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Npc.cpp">
+      <Filter>Source Files\Renders\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="PickUp.cpp">
+      <Filter>Source Files\Renders\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files\Renders\Objects</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\README.md" />
+    <None Include="..\.gitignore" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,71 @@
+14
+850 248 456 106
+1 ÿ ÿ ÿ ÿ
+Level: 
+Textures/Label.png
+none
+850 373 456 106
+1 ÿ ÿ ÿ ÿ
+Inteligence: 
+Textures/StatsLabel.png
+none
+850 498 456 106
+1 ÿ ÿ ÿ ÿ
+Strength: 
+Textures/StatsLabel.png
+none
+850 623 456 106
+1 ÿ ÿ ÿ ÿ
+Dextermity: 
+Textures/StatsLabel.png
+none
+850 748 456 106
+1 ÿ ÿ ÿ ÿ
+Endurance: 
+Textures/StatsLabel.png
+none
+850 873 456 106
+1 ÿ ÿ ÿ ÿ
+Vitality: 
+Textures/StatsLabel.png
+none
+1374 498 385 125
+1 ÿ ÿ ÿ ÿ
+Damage
+Textures/Button.png
+none
+1374 626 385 125
+1 ÿ ÿ ÿ ÿ
+Resistance
+Textures/Button.png
+none
+1374 373 385 106
+1 ÿ ÿ ÿ ÿ
+Armor: 
+Textures/StatsLabel.png
+none
+144 498 558 106
+1 ÿ ÿ ÿ ÿ
+Name
+Textures/Button.png
+none
+144 623 558 106
+1 ÿ ÿ ÿ ÿ
+Health: 
+Textures/StatsLabel.png
+none
+144 748 558 106
+1 ÿ ÿ ÿ ÿ
+Mana: 
+Textures/StatsLabel.png
+none
+144 873 558 106
+1 ÿ ÿ ÿ ÿ
+Money: 
+Textures/StatsLabel.png
+none
+1374 248 385 106
+1 ÿ ÿ ÿ ÿ
+Experience: 
+Textures/Label.png
+none

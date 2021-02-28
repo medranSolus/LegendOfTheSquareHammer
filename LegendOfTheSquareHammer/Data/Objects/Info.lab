@@ -1,0 +1,45 @@
+10
+144 498 558 106
+1 ÿ ÿ ÿ ÿ
+Name
+Textures/StatsLabel.png
+none
+144 621 558 360
+0
+Textures/OptionMenu.png
+none
+74 621 698 72
+1 ÿ ÿ ÿ ÿ
+Text
+noPath
+none
+74 693 698 72
+0
+noPath
+none
+74 765 698 72
+0
+noPath
+none
+74 837 698 72
+0
+noPath
+none
+74 909 698 72
+0
+noPath
+none
+1748 70 50 50
+0
+Textures/XButton.png
+none
+800 70 335 100
+1 ÿ ÿ ÿ ÿ
+Level: 
+Textures/Label.png
+none
+1120 70 623 100
+1 ÿ ÿ ÿ ÿ
+Item type and class(bodypart, weapontype, etc)
+Textures/StatsLabel.png
+none

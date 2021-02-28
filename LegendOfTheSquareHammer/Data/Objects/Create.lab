@@ -1,0 +1,89 @@
+502 40 960 150
+1 ÿ ÿ ÿ ÿ
+Name:    _______________
+Textures/Button.png
+none
+1300 210 600 160
+1 ÿ ÿ ÿ ÿ
+Points left:  10
+Textures/Label.png
+none
+1350 380 500 160
+1 ÿ ÿ ÿ ÿ
+  Play  
+Textures/Label.png
+none
+1549 850 306 101
+1 ÿ ÿ ÿ ÿ
+Back
+Textures/Button.png
+none
+0 170 916 850
+0
+Textures/Button.png
+none
+0 300 916 120
+1 ÿ ÿ ÿ ÿ
+Inteligence:  8
+Textures/Blank.png
+none
+940 300 140 120
+0
+Textures/ArrowLeft.png
+none
+1100 300 140 120
+0
+Textures/Arrow.png
+none
+0 420 916 120
+1 ÿ ÿ ÿ ÿ
+Strength:  10
+Textures/Blank.png
+none
+940 420 140 120
+0
+Textures/ArrowLeft.png
+none
+1100 420 140 120
+0
+Textures/Arrow.png
+none
+0 540 916 120
+1 ÿ ÿ ÿ ÿ
+Dextermity:  9
+Textures/Blank.png
+none
+940 540 140 120
+0
+Textures/ArrowLeft.png
+none
+1100 540 140 120
+0
+Textures/Arrow.png
+none
+0 660 916 120
+1 ÿ ÿ ÿ ÿ
+Endurance:  11
+Textures/Blank.png
+none
+940 660 140 120
+0
+Textures/ArrowLeft.png
+none
+1100 660 140 120
+0
+Textures/Arrow.png
+none
+0 780 916 120
+1 ÿ ÿ ÿ ÿ
+Vitality:  12
+Textures/Blank.png
+none
+940 780 140 120
+0
+Textures/ArrowLeft.png
+none
+1100 780 140 120
+0
+Textures/Arrow.png
+none
